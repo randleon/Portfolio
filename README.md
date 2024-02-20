@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🚢 [DE Project 1](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | Nov 2022 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Changed shipping data on a two sheet workbook from wide to long format. |
-| 🐶 [Project Two](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+| 🐶 [DE Project 2](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
 
 ***
 
@@ -33,8 +33,8 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 🏀 [Basketball Game Ticket Data](https://github.com/randleon/Querying-a-Basketball-Ticket-Dataset/blob/main/basketball_SQL_Code) | Data Query Langauge, Data Manipulation Language | Simple exercise to showcase my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills with a ticketing dataset. | 
-| 👩🏻‍⚕️ [Project 4](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
-| 🦠 [Project 5](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning, data analysis | A project close to 🏡 home. Inspired by Alex Freberg, I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
+| 👩🏻‍⚕️ [ SQL Project 4](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
+| 🦠 [SQL Project 5](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning, data analysis | A project close to 🏡 home. Inspired by Alex Freberg, I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
 
 ***
 
@@ -57,7 +57,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 | 🦄 [Tableau Project 1](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [DASHBOARD LINK 1](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 🦠 [Tableau Project 3](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg I analysed X using SQL and Tableau. | [DASHBOARD LINK 2](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+| 🦠 [Tableau Project 2](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg I analysed X using SQL and Tableau. | [DASHBOARD LINK 2](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
 
 ***
 
