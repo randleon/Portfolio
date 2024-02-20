@@ -14,7 +14,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚢 [Allocating Shipping Data](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | Nov 2022 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Changed shipping data on a two sheet workbook from wide to long format. |
+| 🚢 [DE Project 1](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | Nov 2022 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Changed shipping data on a two sheet workbook from wide to long format. |
 | 🐶 [Project Two](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
 
 ***
