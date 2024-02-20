@@ -61,7 +61,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 
 ***
 
-# PowerBi
+# PowerBI
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
