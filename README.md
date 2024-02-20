@@ -10,7 +10,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 - [Tableau](#tableau)
 - [PowerBI](#PowerBI)
 
-# Data Engineering ⚙️
+# Data Engineering ⚙
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -19,7 +19,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 
 ***
 
-# Excel 📗
+# Excel 
 
 | Project Link | Tools/Strategies Used | Project Description | 
 |---|---|---|
@@ -28,7 +28,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 
 ***
 
-# SQL    🗂️
+# SQL
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
