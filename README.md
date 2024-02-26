@@ -63,7 +63,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 
 # PowerBI
 
-| Project Link | Project Description | Dashboard Link |
+| Project Link | Project Description | Dashboard Link
 |---|---|---|
-| 📈 [Sales Dashboard](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Uploaded and modeled CSV sales data in a star schema fashion to then create a dashboard highlighting sales information in PowerBI. | [DASHBOARD LINK 1](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| 📈 [Sales Dashboard]([https://github.com/katiehuangx/Maven-Unicorn-Challenge](https://github.com/randleon/Sales-Dashboard-PowerBI)) | Uploaded and modeled CSV sales data in a star schema fashion to then create a dashboard highlighting sales information in PowerBI. 
 
