@@ -65,5 +65,5 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 📈 [Sales Dashboard](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [DASHBOARD LINK 1](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| 📈 [Sales Dashboard](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Uploaded and modeled CSV sales data in a star schema fashion to then create a dashboard highlighting sales information in PowerBI. | [DASHBOARD LINK 1](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
 
