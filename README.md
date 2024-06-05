@@ -32,9 +32,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🏀 [Basketball Game Ticket Data](https://github.com/randleon/Querying-a-Basketball-Ticket-Dataset/blob/main/basketball_SQL_Code) | Data Query Langauge, Data Manipulation Language | Simple exercise to showcase my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills with a ticketing dataset. | 
-| 👩🏻‍⚕️ [ SQL Project 4](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
-| 🦠 [SQL Project 5](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning, data analysis | A project close to 🏡 home. Inspired by Alex Freberg, I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
+| 🏀 [Basketball Game Ticket Data](https://github.com/randleon/Querying-a-Basketball-Ticket-Dataset/blob/main/basketball_SQL_Code) | Data Query Langauge, Data Manipulation Language | Simple exercise to showcase my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills with a ticketing dataset. |  
 
 ***
 
