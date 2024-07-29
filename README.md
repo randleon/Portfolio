@@ -61,5 +61,5 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 
 | Project Link | Project Description | _
 |---|---|---|
-| 📈 [Sales Dashboard](https://github.com/randleon/Sales-Dashboard-PowerBI) | Uploaded and modeled CSV sales data in a star schema fashion to then create a dashboard highlighting sales information in PowerBI. 
+| 📈 [Global Sales Dashboard](https://github.com/randleon/Sales-Dashboard-PowerBI) | Uploaded and modeled CSV sales data in a star schema fashion to then create a dashboard highlighting sales information in PowerBI. 
 
