@@ -23,7 +23,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 
 | Project Link | Tools/Strategies Used | Project Description | 
 |---|---|---|
-| 🚢 [Allocating Shipping Data Columns]() | Conditional Formatting, Custom Formulae, VLOOKUP, Cell Concatenation, Data Transposing | Allocated columns of missing data to other workbooks. I transformed and concatenated the column data across using VLOOKUP and then combined the tables all into one new sheet for reference. |
+| 🚢 [Allocating Shipping Data Columns](https://github.com/randleon/Excel-Exercise-Using-Shipping-Data) | Conditional Formatting, Custom Formulae, VLOOKUP, Cell Concatenation, Data Transposing | Allocated columns of missing data to other workbooks. I transformed and concatenated the column data across using VLOOKUP and then combined the tables all into one new sheet for reference. |
 
 ***
 
