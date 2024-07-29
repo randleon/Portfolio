@@ -55,7 +55,6 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 | ⚾ [MLB The Show 24 Dashboard](https://public.tableau.com/app/profile/randy.leon5673/viz/MLBTheShow24Dashboard/Dashboard1?publish=yes) | Cleansed and transformed data on Playstation baseball game MLB the Show 24. Bought and extracted data into Tableau from third-party website. Generated three workbooks with interesting baseball player insights in the game. Findings can help people choose the best players in the game.  | [DASHBOARD LINK 1](https://public.tableau.com/app/profile/randy.leon5673/viz/MLBTheShow24Dashboard/Dashboard1?publish=yes) |
-| 🦠 [Tableau Project 2](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg I analysed X using SQL and Tableau. | [DASHBOARD LINK 2](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
 
 ***
 
