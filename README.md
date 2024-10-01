@@ -32,7 +32,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 🏀 [Basketball Game Ticket Data](https://github.com/randleon/Querying-a-Basketball-Ticket-Dataset/blob/main/basketball_SQL_Code) | Data Query Langauge, Data Manipulation Language | Simple exercise to showcase my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills with a ticketing dataset. |  
-| ⚾ [MLB SQL Queries]([https://github.com/randleon/Querying-a-Basketball-Ticket-Dataset/blob/main/basketball_SQL_Code](https://github.com/randleon/MLB_SQL_Queries/blob/main/MLB_SQL_Queries.txt)) | Data Query Langauge, Data Manipulation Language | Here I write, analyze, and optimize queries for complex datasets, such as these from Sean Lahman's website featuring Batting and People data from the MLB. (Major League Baseball) Queries include subqueries, window functions, and joins. |  
+| ⚾ [MLB SQL Queries](https://github.com/randleon/MLB_SQL_Queries/blob/main/MLB_SQL_Queries.txt](https://raw.githubusercontent.com/randleon/MLB_SQL_Queries/refs/heads/main/MLB_SQL_Queries.txt)) | Data Query Langauge, Data Manipulation Language | Here I write, analyze, and optimize queries for complex datasets, such as these from Sean Lahman's website featuring Batting and People data from the MLB. (Major League Baseball) Queries include subqueries, window functions, and joins. |  
 
 ***
 
