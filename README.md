@@ -14,7 +14,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 👮‍♂️ [NYC OATH Data Pipeline Project]() | -- | -- | -- |
+| 👮‍♂️ [NYC OATH Data Pipeline Project](https://github.com/randleon/nyc-oath-hearings-analysis) | SQL, Windows Powershell, Python | -- | -- |
 | 🐶 [--] |-- |-- |
 
 ***
