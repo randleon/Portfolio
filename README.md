@@ -14,8 +14,7 @@ Welcome to my data portfolio! Here, I provide a summary of my projects in the da
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 👮‍♂️ [NYC OATH Data Pipeline Project](https://github.com/randleon/nyc-oath-hearings-analysis) | Sept. 2025  | SQL, Windows Powershell, Python | This project explores **NYC OATH (Office of Administrative Trials and Hearings) violation data** from [NYC Open Data](https://data.cityofnewyork.us).  
-The dataset contains tens of thousands of violation case records (50k+ sample pulled), including issuing agency, hearing date, decision outcome, and penalty amounts.|
+| 👮‍♂️ [NYC OATH Data Pipeline Project](https://github.com/randleon/nyc-oath-hearings-analysis) | Sept. 2025  | SQL, Windows Powershell, Python | This project explores **NYC OATH (Office of Administrative Trials and Hearings) violation data** from [NYC Open Data](https://data.cityofnewyork.us).The dataset contains tens of thousands of violation case records (50k+ sample  pulled), including issuing agency, hearing date, decision outcome, and penalty amounts.|
 
 ***
 
